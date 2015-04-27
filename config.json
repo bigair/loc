@@ -1,0 +1,21 @@
+[
+    {
+        "id": "enHello",
+        "class_name":"EnHello",
+        "class_file":"Hello.class.php",
+        "properties":[{
+            "name":"msg",
+            "value":"Hello World!"
+        }]
+    },
+    {
+        "id": "cnHello",
+        "class_name":"CnHello",
+        "class_file":"Hello.class.php",
+        "properties":[{
+            "name":"msg",
+            "value":"世界你好!"
+        }]
+    }
+]
+
